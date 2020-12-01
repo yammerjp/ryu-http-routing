@@ -1,5 +1,9 @@
 # Ryu を用いた HTTP パケットのドメインによるルーティング
 
+## 作りたいもの
+
+特定のIPアドレスに向けて送信されたHTTPパケットに対し, HTTPヘッダのドメインを読んで対応するIPアドレスをパケットの宛先に上書きする動作を行う Open vSwitch を作る
+
 ## 参考文献
 
 - [環境構築 — Ryubook 1.0 ドキュメント](https://osrg.github.io/ryu-book/ja/html/installation_guide.html#ch-inst-guide)
