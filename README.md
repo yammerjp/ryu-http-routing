@@ -7,6 +7,7 @@
 ## 参考文献
 
 - [環境構築 — Ryubook 1.0 ドキュメント](https://osrg.github.io/ryu-book/ja/html/installation_guide.html#ch-inst-guide)
+- [Mininetのインストールと使用方法 - Qiita](https://qiita.com/28tomono/items/e8cf97a4b38b30f6c0cb)
 
 ## 作業ログ
 
